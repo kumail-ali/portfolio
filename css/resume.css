@@ -53,6 +53,10 @@ p.lead {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
 }
+.subheading-list{
+  list-style: none;
+  padding-left: 0px !important;
+}
 
 .social-icons a {
   display: inline-block;
